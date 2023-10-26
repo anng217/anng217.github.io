@@ -7,10 +7,8 @@ subtitle: <a href="https://www.cdin.net/">Center for Digital Innovation - Georgi
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>17th Floor, 55 Park Place</p>
-    <p>Atlanta, Georgia 30306</p>
+  image_circular: false # crops the image to make it circular
+  more_info: #An: I dont want anything here
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
