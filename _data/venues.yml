@@ -1,6 +1,21 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"JMIS":
+  url: https://jmis-web.org/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ISR":
+  url: https://pubsonline.informs.org/journal/isre
+  color: "#00369f"
+
+"MISQ":
+  url: https://misq.umn.edu/
+  color: "#00369f"
+
+"JAIS":
+  url: https://aisel.aisnet.org/jais/
+
+"ICIS 2024":
+  url: https://icis2024.aisconferences.org/
+
+"PACIS 2024":
+  url: https://pacis2024.aisconferences.org/
+  
