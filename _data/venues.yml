@@ -13,9 +13,12 @@
 "JAIS":
   url: https://aisel.aisnet.org/jais/
 
-"ICIS 2024":
+"ICIS2024":
   url: https://icis2024.aisconferences.org/
 
-"PACIS 2024":
+"PACIS2024":
   url: https://pacis2024.aisconferences.org/
+
+"Working Paper":
+  color: "119da4"
   

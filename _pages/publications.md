@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /publications/
-title: publications and projects
+title: publications
 description: #publications by categories in reversed chronological order.
-nav: true
+#nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
