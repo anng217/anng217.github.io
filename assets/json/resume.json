@@ -1,18 +1,18 @@
 {
-  "basics": {
-    //"name": "An Nguyen",
+  "": {
+    "name": "An Nguyen",
     //"label": "",
     //"image": "",
-    //"email": "anguyen192@gsu.edu",
+    "email": "anguyen192@gsu.edu",
     //"phone": "",
     //"url": "",
     //"summary": "",
-    //"location": {
-    //  "address": "55 Park Place NE",
-    //  "postalCode": "GA 30303",
-    // "city": "Atlanta",
-    // "countryCode": "US",
-    //  "region": "Georgia"
+    "location": {
+      "address": "55 Park Place NE",
+      "postalCode": "GA 30303",
+     "city": "Atlanta",
+     "countryCode": "US",
+      "region": "Georgia"
     }//,
     //"profiles": [
     // {
