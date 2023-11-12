@@ -94,7 +94,12 @@
 #        - Description 1.
 #        - Description 2.
 
-#- title: Other Interests
-#  type: list
-#  contents:
-#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: Research Interest
+  type: list
+  contents:
+    - Online Communities, Social Media, Digital Innovation
+
+- title: Service
+  type: list
+  contents:
+    - <b>Ad-hoc Reviewer:</b> ICIS 2022, JMIS
