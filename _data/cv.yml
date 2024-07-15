@@ -102,4 +102,5 @@
 - title: Service
   type: list
   contents:
-    - <b>Ad-hoc Reviewer:</b> ICIS 2023, JMIS
+    - <b>Ad-hoc Reviewer:</b> ICIS 2023
+    - <b>Reviewer:</b> JMIS
